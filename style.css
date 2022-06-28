@@ -49,7 +49,11 @@ body {
 
 .display-region .question {
     font-size: 1.3rem;
-    letter-spacing: .4rem;
+    letter-spacing: .01rem;
+    height: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
 }
 
 .display-region .answer {
